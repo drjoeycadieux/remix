@@ -1,7 +1,7 @@
 import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => [
-    { title: "API Documentation - Techtack-Technologies" },
+    { title: "API Documentation | Techtack-Technologies" },
     { name: "description", content: "API documentation for Techtack-Technologies" },
 ];
 
