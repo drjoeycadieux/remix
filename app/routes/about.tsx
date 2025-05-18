@@ -2,7 +2,7 @@ import type { MetaFunction } from "@remix-run/node";
 
 export const meta: MetaFunction = () => {
     return [
-        { title: "About Us - Techtack-Technologies" },
+        { title: "About Us | Techtack-Technologies" },
         { name: "description", content: "Learn more about Techtack-Technologies, our mission, vision, and team." },
     ];
 };
